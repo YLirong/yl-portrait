@@ -16,6 +16,13 @@ body { /* General style rules for the body section */
 	background-size: cover;
 	background-color: #f1fafa;
 }
+
+#background{
+  background-image: url(/images/wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 #navbar{
 	font-size: 2em;
 	padding: 10px;
