@@ -18,7 +18,7 @@ body { /* General style rules for the body section */
 }
 
 #background {
-  background-image: url(“wallpaper.jpg”);
+  background-image: url(image.wallpaper.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
