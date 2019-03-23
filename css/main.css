@@ -10,6 +10,14 @@ body { /* General style rules for the body section */
 	text-align: center;
 
 }
+
+body {
+  background-image: url(image.wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 #background {
 	background-image:url("http://bgfons.com/uploads/coffe_chocolate/coffe_chocolate_texture1504.jpg");
 	background-repeat: no-repeat;
@@ -17,12 +25,7 @@ body { /* General style rules for the body section */
 	background-color: #f1fafa;
 }
 
-#background {
-  background-image: url(image.wallpaper.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
 
-}
 #navbar{
 	font-size: 2em;
 	padding: 10px;
