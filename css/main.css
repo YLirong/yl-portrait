@@ -5,13 +5,20 @@ body, html {
 	width: 100%;
 }
 body { /* General style rules for the body section */
-	 background-color:plum;
+	 background-color:#f1fafa;
+
 	color: purple;
 	font-family:'Josefin Sans', sans-serif;
 	text-align: center;
-
-
 }
+
+#background{
+	background-image: url(/Images/wood);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
 h1 {
 	 color:orange;
 	text-decoration: underline;
