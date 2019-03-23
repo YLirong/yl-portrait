@@ -5,7 +5,7 @@ body, html {
 	width: 100%;
 }
 body { /* General style rules for the body section */
-	color: purple;
+	color: red;
 	font-family:'Lobster', cursive;
 	text-align: center;
 
