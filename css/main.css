@@ -18,15 +18,10 @@ body {
 
 }
 
-#background {
-	background-image:url("http://bgfons.com/uploads/coffe_chocolate/coffe_chocolate_texture1504.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #f1fafa;
-}
+
 
 body {
-  background-image: url(image/wood.jpg);
+  background-image: url(image/photo.png);
   background-repeat: no-repeat;
   background-size: cover;
 
