@@ -6,17 +6,16 @@ body, html {
 }
 body { /* General style rules for the body section */
 	 background-color:#f1fafa;
+	 background-image: url(/images/wood);
+	 background-repeat: no-repeat;
+	 background-size: cover;
 
 	color: purple;
 	font-family:'Josefin Sans', sans-serif;
 	text-align: center;
 }
 
-#background{
-	background-image: url(/Images/wood);
-	background-repeat: no-repeat;
-	background-size: cover;
-}
+
 
 
 h1 {
