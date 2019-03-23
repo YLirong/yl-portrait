@@ -12,7 +12,7 @@ body { /* General style rules for the body section */
 }
 
 body {
-  background-image: url(image.wallpaper.jpg);
+  background-image: url(image/wallpaper.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
