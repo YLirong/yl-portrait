@@ -8,13 +8,10 @@ body { /* General style rules for the body section */
 	color: red;
 	font-family:'Lobster', cursive;
 	text-align: center;
-	background-image:url("image/wood.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
 
 }
 #background {
-	background-image:url("image/wood.jpg");
+	background-image:url("http://bgfons.com/uploads/coffe_chocolate/coffe_chocolate_texture1504.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #f1fafa;
