@@ -25,6 +25,12 @@ body {
 	background-color: #f1fafa;
 }
 
+body {
+  background-image: url(image/wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 
 #navbar{
 	font-size: 2em;
