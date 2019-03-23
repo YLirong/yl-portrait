@@ -5,32 +5,76 @@ body, html {
 	width: 100%;
 }
 body { /* General style rules for the body section */
-	 background-color:#f1fafa;
-	 background-image: url(/images/wood);
-	 background-repeat: no-repeat;
-	 background-size: cover;
+	 background-color:#9932CC;
+
 
 	color: purple;
 	font-family:'Josefin Sans', sans-serif;
 	text-align: center;
+
 }
 
+#background{
+	background-image: url(/image/wood.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f1fafa;
+}
+#navbar{
+	font-size: 2em;
+	padding: 10px;
+}
 
+#navbar1{
+	font-size: 2em;
+	padding-top: 10px;
 
+}
+a:visited{color:white;}
+
+a:hover{
+	color: #00bff3;
+	background-color:#f1fafa; }
+
+a:active{
+	color:#f1fafa;
+	background-color: #00bff3;}
 
 h1 {
 	 color:orange;
-	text-decoration: underline;
-	font-size: 60px;
+/*	text-decoration: underline;*/
+	font-size: 80px;
 }
 
-p {
-	font-size: 40px;
+.page_image{
+	max-width: 30%;
+	height:auto;
 }
 
-.small-font {
+#gallery div{
+
+		float: right;
+    padding-left: 400px;
+	}
+
+#gallery div a{
+	color:yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*.small-font {
 	font-size: 25px;
-}
+}*/
 
 #div1 {
 /*	background-color: gray;*/
@@ -40,26 +84,28 @@ p {
 	padding: 6px;
 }
 
+
 #div2 {
 /*	background-color: skyblue;*/
-		margin: 5%;
+		/*margin: 5%;
 			padding: 6px;
 			float: left;
 			width: 20%;
-}
-#div3{
-	/*background-color: pink;*/
+}*/
+/*#div3{
+	background-color: pink;
 		margin: 5%;
 			padding: 6px;
 			float:right;
 			width: 50%;
-}
-#div4{
+}*/
+/*#div4{
 	background-color: black;
 		margin: 5%;
 			padding: 6px;
 			clear: both;
 }
+*/
 
 #center-me{
 	position: absolute;
@@ -70,18 +116,18 @@ p {
 h3 { /* Matches elements with h3 tag */
 	color: white;
 }
-h2{
+/*h2{
 	color: yellow;
 	text-decoration: line-through;
 }
 h4{
 	color:orange;
 text-decoration: underline;
-}
+}*/
 .SimpleDiv { /* Matches element with id=SimpleDiv */
-	background-color: gray;
+/*	background-color: gray;
 
-	color: hotpink;
+	color: hotpink;*/
 
 
 	border-style: solid groove;
