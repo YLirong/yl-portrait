@@ -63,15 +63,6 @@ h1 {
 
 
 
-
-
-
-
-
-
-
-
-
 /*.small-font {
 	font-size: 25px;
 }*/
@@ -99,13 +90,13 @@ h1 {
 			float:right;
 			width: 50%;
 }*/
-/*#div4{
+#div4{
 	background-color: black;
 		margin: 5%;
 			padding: 6px;
 			clear: both;
 }
-*/
+
 
 #center-me{
 	position: absolute;
