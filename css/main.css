@@ -26,7 +26,7 @@ body { /* General style rules for the body section */
 	padding-top: 10px;
 
 }
-a:visited{color:white;}
+a:visited{color:pink;}
 
 a:hover{
 	color: #00bff3;
