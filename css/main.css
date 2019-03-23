@@ -8,14 +8,18 @@ body { /* General style rules for the body section */
 	color: red;
 	font-family:'Lobster', cursive;
 	text-align: center;
-
-}
-#background body{
-	background-image:url("image/wood.jpg");
+	background-image:url("/image/wood.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: #f1fafa;
+
 }
+/*#background {
+	background-image:url("/image/wood.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #f1fafa;
+}*/
 #navbar{
 	font-size: 2em;
 	padding: 10px;
