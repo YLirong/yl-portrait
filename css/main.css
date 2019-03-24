@@ -55,7 +55,7 @@ a:active{
 
 h1 {
 	 color:pink;
-	text-decoration:;
+	text-decoration:center;
 	font-size: 90px;
 }
 
@@ -113,6 +113,7 @@ h1 {
 	color:pink;
 	margin: 5%;
 	padding: 6px;
+
 }
 
 
