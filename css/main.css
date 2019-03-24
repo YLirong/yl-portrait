@@ -33,11 +33,11 @@ body {
 
 }
 
-#navbar1{
+/*#navbar1{
 	font-size: 2em;
 	padding-top: 10px;
 
-}
+}*/
 a:visited{color:pink;}
 
 a:hover{
@@ -57,7 +57,12 @@ h1 {
 .page_image{
 	max-width: 30%;
 	height:auto;
+	border-radius: 50%;
 }
+.page_image3{
+	border-radius: 80;
+}
+
 
 #gallery div{
 
@@ -68,6 +73,7 @@ h1 {
 #gallery div a{
 	color:yellow;
 }
+
 
 
 
