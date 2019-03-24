@@ -33,6 +33,11 @@ body {
 
 }
 
+#navbar1{
+	font-size: 3em;
+
+}
+
 /*#navbar1{
 	font-size: 2em;
 	padding-top: 10px;
@@ -42,7 +47,7 @@ a:visited{color:pink;}
 
 a:hover{
 	color: #00bff3;
-	background-color:#f1fafa; }
+	background-color:pink; }
 
 a:active{
 	color:#f1fafa;
@@ -58,10 +63,31 @@ h1 {
 	max-width: 30%;
 	height:auto;
 	border-radius: 50%;
+	border: 5px solid yellow;
 }
-.page_image3{
+
+/*.page_image1{
+	border: 5px solid yellow;
+	border-radius: 30%;
+	max-width: 80%;
+	float: left;
+	margin-left: -170%;
+	margin-top: -5%;
+}*/
+
+#gallery1 div{
+	text-align:justify;
+	display:inline-block;
+  margin-left: 10%;
+	margin-top: -3%;
 
 }
+
+#gallery1 div a{
+	color: yellow;
+
+}
+
 
 
 #gallery div{
