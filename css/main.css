@@ -110,9 +110,10 @@ h1 {
 #div1 {
 /*	background-color: gray;*/
 
-	color:pink;
-	margin: 5%;
+	color:purple;
+	margin: 0%;
 	padding: 6px;
+	font-size: 50px;
 
 }
 
@@ -140,10 +141,15 @@ h1 {
 
 
 #center-me{
-	position: absolute;
-	left: 40%;
-	top: 40%;
+
+	position:relative;
+	left:60%;
+	top: 60%;
+
 }
+
+
+
 
 
 
