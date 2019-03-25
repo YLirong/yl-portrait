@@ -5,7 +5,7 @@ body, html {
 	width: 100%;
 }
 body { /* General style rules for the body section */
-	color: red;
+	color: yellow;
 	font-family:'Lobster', cursive;
 	text-align: center;
 
@@ -144,6 +144,9 @@ h1 {
 	left: 40%;
 	top: 40%;
 }
+
+
+
 
 h3 { /* Matches elements with h3 tag */
 	color: white;
