@@ -90,6 +90,7 @@ h1 {
 
 
 
+
 #gallery div{
 
 		float: right;
@@ -107,8 +108,9 @@ margin-top: -50%;
 }
 
 p{
-	font-size: 3em;
+	font-size: 5em;
 	color: lightblue;
+	position: absolute;
 
 
 }
