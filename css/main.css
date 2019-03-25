@@ -108,7 +108,7 @@ margin-top: -50%;
 
 p{
 	font-size: 3em;
-	color: skyblue;
+	color: lightblue;
 
 
 }
@@ -160,7 +160,10 @@ p{
 
 }
 
-
+#move{
+	margin: 30%
+	float:inherit;
+}
 
 
 
